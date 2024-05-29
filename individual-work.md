@@ -1,4 +1,19 @@
-# Individual-workimport java.util.Scanner;
+# Individual-work
+# Tic-Tac-Toe Game
+
+Welcome to the Tic-Tac-Toe game! This is a simple implementation of the classic game in Java.
+
+## How to Play
+
+- Player 1 will be '♥' and Player 2 will be '♡'.
+- Take turns to place your mark on the 3x3 grid.
+- The first player to get three in a row, column, or diagonal wins!
+- If the board is full and no player has won, the game is a draw.
+
+## Game Code
+
+```java
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
